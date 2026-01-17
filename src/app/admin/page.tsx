@@ -122,7 +122,8 @@ export default function AdminDashboard() {
                                 </CardHeader>CardHeader>
                                 <CardContent>
                                             <p className="text-muted">
-                                                          Добро пожаловать в панель администратора Makon TV. 
+      
+                                                // Force redeployДобро пожаловать в панель администратора Makon TV. 
                                                           Здесь вы можете управлять контентом, пользователями и настройками платформы.
                                             </p>p>
                                 </CardContent>CardContent>
