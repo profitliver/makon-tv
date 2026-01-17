@@ -31,7 +31,7 @@ export default function LoginPage() {
     if (result.error) {
       setError(t("errors.invalidCredentials"));
     } else {
-      router.push("/");
+      window.location.href = "/";
     }
   };
 
