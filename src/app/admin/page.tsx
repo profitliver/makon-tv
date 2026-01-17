@@ -1,4 +1,4 @@
-"use client";
+"use client"; // force rebuild
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
