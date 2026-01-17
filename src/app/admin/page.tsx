@@ -1,5 +1,4 @@
-"use client"; // force rebuild 3 - v5
-
+"use client"; // v6 real stats
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { Users, Film, CreditCard, TrendingUp, Plus, Eye } from "lucide-react";
